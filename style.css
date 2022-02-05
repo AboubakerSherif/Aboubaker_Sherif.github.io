@@ -68,24 +68,24 @@ header a {
 }
 
 
-#Home {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('file:///C:/Users/abu15/Desktop/Personal%20Website/BG%20IMGS/ATL.jpg');
+#home {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://raw.githubusercontent.com/AboubakerSherif/Aboubaker_Sherif.github.io/main/ATL.jpg');
 }
 
-#About {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('file:///C:/Users/abu15/Desktop/Personal%20Website/BG%20IMGS/ME.jpg');
+#me {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://raw.githubusercontent.com/AboubakerSherif/Aboubaker_Sherif.github.io/main/ME.jpg');
 }
 
-#Skills {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('file:///C:/Users/abu15/Desktop/Personal%20Website/BG%20IMGS/CODE%20BG.jpg');
+#hw {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://raw.githubusercontent.com/AboubakerSherif/Aboubaker_Sherif.github.io/main/CODE%20BG.jpg');
 }
 
-#Portfolio {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('file:///C:/Users/abu15/Desktop/Personal%20Website/BG%20IMGS/GSU.jpg');
+#education {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://raw.githubusercontent.com/AboubakerSherif/Aboubaker_Sherif.github.io/main/GSU.jpg');
 }
 
-#Contact {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('file:///C:/Users/abu15/Desktop/Personal%20Website/BG%20IMGS/CONTACT.jpg');
+#wc {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://raw.githubusercontent.com/AboubakerSherif/Aboubaker_Sherif.github.io/main/world_cup.jpg');
 }
 
 table {
