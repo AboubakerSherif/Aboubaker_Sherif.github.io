@@ -1,0 +1,122 @@
+h1{
+color: red;
+margin-left: auto;
+margin-right: auto;
+}
+
+h2{
+color: red;
+margin-left: auto;
+margin-right: auto;
+}
+
+p{
+text-indent: 1cm;
+color: red;
+text-align: center;
+}
+
+body {
+    margin: 0;
+    margin-top: 0px;
+    font-family: sans-serif;
+	text-align: center;
+}
+
+section {
+    height: 100vh;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}
+
+.profile-img {
+    width: 300px;
+    border-radius: 50%;
+	float: left;
+	margin-right: 15px;
+	align-items: left;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+}
+
+#Home h1 {
+    font-size: 3em;
+}
+
+section h2 {
+    font-size: 2.5em;
+}
+
+section h3 {
+    font-size: 1.5em;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+}
+
+
+#Home {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('file:///C:/Users/abu15/Desktop/Personal%20Website/BG%20IMGS/ATL.jpg');
+}
+
+#About {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('file:///C:/Users/abu15/Desktop/Personal%20Website/BG%20IMGS/ME.jpg');
+}
+
+#Skills {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('file:///C:/Users/abu15/Desktop/Personal%20Website/BG%20IMGS/CODE%20BG.jpg');
+}
+
+#Portfolio {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('file:///C:/Users/abu15/Desktop/Personal%20Website/BG%20IMGS/GSU.jpg');
+}
+
+#Contact {
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('file:///C:/Users/abu15/Desktop/Personal%20Website/BG%20IMGS/CONTACT.jpg');
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+ul.a {
+  list-style-type: square;
+  text-align: center;
+}
+ul.b {
+  list-style-type: circle;
+  text-align: center;
+}
+li.a {
+  font-weight: bold;
+  text-align: center;
+}
+ul.c {
+  font-weight: normal;
+  text-align: center;
+}
